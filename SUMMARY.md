@@ -13,7 +13,8 @@
 ## Domain 3: Security Architecture and Engineering
 
 * [Security Architecture and Engineering](domain-3-security-architecture-and-engineering/security-architecture-and-engineering.md)
-* [Network Fundamentals and Secure Design](domain-3-security-architecture-and-engineering/network-fundamentals-and-secure-design.md)
+* [Network Fundamentals and Secure Design](domain-3-security-architecture-and-engineering/network-fundamentals-and-secure-design/README.md)
+  * [The OSI Model Explained and Applied](domain-3-security-architecture-and-engineering/network-fundamentals-and-secure-design/the-osi-model-explained-and-applied.md)
 
 ## Domain 4: Communication and Network Security
 
