@@ -13,6 +13,7 @@
 ## Domain 3: Security Architecture and Engineering
 
 * [Security Architecture and Engineering](domain-3-security-architecture-and-engineering/security-architecture-and-engineering.md)
+* [Network Fundamentals and Secure Design](domain-3-security-architecture-and-engineering/network-fundamentals-and-secure-design.md)
 
 ## Domain 4: Communication and Network Security
 
