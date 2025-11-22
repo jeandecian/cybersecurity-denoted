@@ -29,3 +29,7 @@
 ## Domain 7: Security Operations
 
 * [Security Operations](domain-7-security-operations/security-operations.md)
+
+## Domain 8: Software Development Security
+
+* [Software Development Security](domain-8-software-development-security/software-development-security.md)
