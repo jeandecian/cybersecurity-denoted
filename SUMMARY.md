@@ -25,3 +25,7 @@
 ## Domain 6: Security Assessment and Testing
 
 * [Security Assessment and Testing](domain-6-security-assessment-and-testing/security-assessment-and-testing.md)
+
+## Domain 7: Security Operations
+
+* [Security Operations](domain-7-security-operations/security-operations.md)
