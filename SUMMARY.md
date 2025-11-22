@@ -9,3 +9,7 @@
 ## Domain 2: Asset Security
 
 * [Asset Security](domain-2-asset-security/asset-security.md)
+
+## Domain 3: Security Architecture and Engineering
+
+* [Security Architecture and Engineering](domain-3-security-architecture-and-engineering/security-architecture-and-engineering.md)
