@@ -21,3 +21,7 @@
 ## Domain 5: Identity and Access Management (IAM)
 
 * [Identity and Access Management (IAM)](domain-5-identity-and-access-management-iam/identity-and-access-management-iam.md)
+
+## Domain 6: Security Assessment and Testing
+
+* [Security Assessment and Testing](domain-6-security-assessment-and-testing/security-assessment-and-testing.md)
