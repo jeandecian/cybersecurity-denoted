@@ -32,7 +32,8 @@
 ## Domain 7: Security Operations
 
 * [Security Operations](domain-7-security-operations/security-operations.md)
-* [Threat Intelligence and Analysis](domain-7-security-operations/threat-intelligence-and-analysis.md)
+* [Threat Intelligence and Analysis](domain-7-security-operations/threat-intelligence-and-analysis/README.md)
+  * [MITRE ATT\&CK Framework](domain-7-security-operations/threat-intelligence-and-analysis/mitre-att-and-ck-framework.md)
 
 ## Domain 8: Software Development Security
 
