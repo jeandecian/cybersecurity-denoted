@@ -16,6 +16,7 @@
 * [Network Fundamentals and Secure Design](domain-3-security-architecture-and-engineering/network-fundamentals-and-secure-design/README.md)
   * [The OSI Model Explained and Applied](domain-3-security-architecture-and-engineering/network-fundamentals-and-secure-design/the-osi-model-explained-and-applied.md)
   * [CIDR Notation and Subnetting Mastery](domain-3-security-architecture-and-engineering/network-fundamentals-and-secure-design/cidr-notation-and-subnetting-mastery.md)
+* [Security Models and Architectures](domain-3-security-architecture-and-engineering/security-models-and-architectures.md)
 
 ## Domain 4: Communication and Network Security
 
