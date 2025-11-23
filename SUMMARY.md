@@ -32,6 +32,7 @@
 ## Domain 7: Security Operations
 
 * [Security Operations](domain-7-security-operations/security-operations.md)
+* [Threat Intelligence and Analysis](domain-7-security-operations/threat-intelligence-and-analysis.md)
 
 ## Domain 8: Software Development Security
 
